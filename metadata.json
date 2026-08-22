@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Oggy Underground Water Harvest",
+  "description": "Gamified 10-level educational adventure learning underground groundwater harvesting and recharge with Oggy and the Cockroaches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
